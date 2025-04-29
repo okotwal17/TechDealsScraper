@@ -162,6 +162,8 @@ To add a new website scraper:
 - If a website's structure changes, the scrapers may need to be updated to match the new HTML structure.
 - Some websites may block scraping attempts. In such cases, you may need to implement more sophisticated scraping techniques or use a headless browser like Selenium.
 
+- Link to Video on how it works: https://youtu.be/wuGeVZaVbPo
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
